@@ -10,6 +10,7 @@ public class SumAnalysis {
             sum += i;
         return sum;
     }
+     
 
     // 使用嵌套循环进行求和
     public static long sumB(int n) {
